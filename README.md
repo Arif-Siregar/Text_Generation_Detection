@@ -12,7 +12,7 @@ Two files are provided:
   * domain2.json: 13,000 samples (1,500 human-generated samples, 11,500 AI-generated samples)
 
 # Team 70
-Meet the team:  
-    * Arifyunanda Siregar bin Suparman
-    * Shourya Thapliya
-    * Zofia Witkowski-Blake
+Meet the team:
+   * Arifyunanda Siregar bin Suparman
+   * Shourya Thapliya
+   * Zofia Witkowski-Blake
