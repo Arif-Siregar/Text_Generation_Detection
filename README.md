@@ -6,6 +6,7 @@ There are two training datasets: one coming from domain1, and another from domai
 The training data is given in newline delimited JSON format, such that each line contains an instance and each instance is a dictionary with keys:
   * text: the sequence of words, after light preprocessing, where each word has been mapped to an index in {0, . . . , 83582}
   * label: a binary label where 0 represents machine-generated data and 1 represents human-generated.
+
 Two files are provided:
   * domain1.json: 5,000 samples (2,500 of each class).
   * domain2.json: 13,000 samples (1,500 human-generated samples, 11,500 AI-generated samples)
